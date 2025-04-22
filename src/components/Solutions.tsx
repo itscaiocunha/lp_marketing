@@ -1,9 +1,21 @@
 const Solutions = () => {
   const solutions = [
-    { video: "https://drive.google.com/file/d/18-_tBupgP4NM5xTE2LesfN0uasFOYVnf/view", alt: "Coloração" },
-    { video: "https://drive.google.com/file/d/1fR7Okx0gBTymM-DFuuXQhfxk7ocxccUE/view", alt: "Audiovisual" },
-    { video: "https://drive.google.com/file/d/1ZgvJ7bzYjLjPl2HcZ3YlpfdnZzzJ6o4r/view", alt: "Social Media" },
-    { video: "https://drive.google.com/file/d/1fxGWeBtIwK1XenIBYrsabmuw_s7rXnG6/view", alt: "Tráfego Pago" }
+    { 
+      video: "https://drive.google.com/uc?export=download&id=18-_tBupgP4NM5xTE2LesfN0uasFOYVnf", 
+      alt: "Coloração" 
+    },
+    { 
+      video: "https://drive.google.com/uc?export=download&id=1fR7Okx0gBTymM-DFuuXQhfxk7ocxccUE", 
+      alt: "Audiovisual" 
+    },
+    { 
+      video: "https://drive.google.com/uc?export=download&id=1ZgvJ7bzYjLjPl2HcZ3YlpfdnZzzJ6o4r", 
+      alt: "Social Media" 
+    },
+    { 
+      video: "https://drive.google.com/uc?export=download&id=1fxGWeBtIwK1XenIBYrsabmuw_s7rXnG6", 
+      alt: "Tráfego Pago" 
+    }
   ];
 
   return (

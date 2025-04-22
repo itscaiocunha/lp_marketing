@@ -10,7 +10,7 @@ const Solutions = () => {
     },
     { 
       video: "https://w7startup.com.br/video/marketing/coloracao.mp4", 
-      alt: "Coloração" 
+      alt: "Audiovisual" 
     },
     { 
       video: "https://w7startup.com.br/video/marketing/edicao.mp4", 

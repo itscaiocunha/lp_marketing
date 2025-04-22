@@ -1,20 +1,20 @@
 const Solutions = () => {
   const solutions = [
     { 
-      video: "https://w7startup.com.br/video/marketing/coloracao.mp4", 
-      alt: "Coloração" 
-    },
-    { 
-      video: "https://w7startup.com.br/video/marketing/edicao.mp4", 
-      alt: "Audiovisual" 
-    },
-    { 
       video: "https://w7startup.com.br/video/marketing/projetoico.mp4", 
       alt: "Social Media" 
     },
     { 
       video: "https://w7startup.com.br/video/marketing/trafego.mp4", 
       alt: "Tráfego Pago" 
+    },
+    { 
+      video: "https://w7startup.com.br/video/marketing/coloracao.mp4", 
+      alt: "Coloração" 
+    },
+    { 
+      video: "https://w7startup.com.br/video/marketing/edicao.mp4", 
+      alt: "Audiovisual" 
     }
   ];
 

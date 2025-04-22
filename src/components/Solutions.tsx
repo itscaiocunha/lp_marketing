@@ -1,9 +1,9 @@
 const Solutions = () => {
   const solutions = [
-    { video: "/videos/coloracao.mp4", alt: "Mídia Digital" },
-    { video: "/videos/edicao.mp4", alt: "Performance" },
-    { video: "/videos/projetoico.mp4", alt: "Consultoria" },
-    { video: "/videos/trafego.mp4", alt: "Consultoria" }
+    { video: "https://drive.google.com/file/d/18-_tBupgP4NM5xTE2LesfN0uasFOYVnf/view", alt: "Coloração" },
+    { video: "https://drive.google.com/file/d/1fR7Okx0gBTymM-DFuuXQhfxk7ocxccUE/view", alt: "Audiovisual" },
+    { video: "https://drive.google.com/file/d/1ZgvJ7bzYjLjPl2HcZ3YlpfdnZzzJ6o4r/view", alt: "Social Media" },
+    { video: "https://drive.google.com/file/d/1fxGWeBtIwK1XenIBYrsabmuw_s7rXnG6/view", alt: "Tráfego Pago" }
   ];
 
   return (

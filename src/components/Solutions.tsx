@@ -1,19 +1,19 @@
 const Solutions = () => {
   const solutions = [
     { 
-      video: "https://drive.google.com/uc?export=download&id=18-_tBupgP4NM5xTE2LesfN0uasFOYVnf", 
+      video: "https://w7startup.com.br/video/marketing/coloracao.mp4", 
       alt: "Coloração" 
     },
     { 
-      video: "https://drive.google.com/uc?export=download&id=1fR7Okx0gBTymM-DFuuXQhfxk7ocxccUE", 
+      video: "https://w7startup.com.br/video/marketing/edicao.mp4", 
       alt: "Audiovisual" 
     },
     { 
-      video: "https://drive.google.com/uc?export=download&id=1ZgvJ7bzYjLjPl2HcZ3YlpfdnZzzJ6o4r", 
+      video: "https://w7startup.com.br/video/marketing/projetoico.mp4", 
       alt: "Social Media" 
     },
     { 
-      video: "https://drive.google.com/uc?export=download&id=1fxGWeBtIwK1XenIBYrsabmuw_s7rXnG6", 
+      video: "https://w7startup.com.br/video/marketing/trafego.mp4", 
       alt: "Tráfego Pago" 
     }
   ];
